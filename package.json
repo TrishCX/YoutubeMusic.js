@@ -1,0 +1,18 @@
+{
+  "name": "youtubemusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "watch": "npx tsc --watch",
+    "start:prod": "nodemon dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.6",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.2.2"
+  }
+}
