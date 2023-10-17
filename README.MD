@@ -1,11 +1,6 @@
----
-order: 10000
-icon: zap
----
-
 # Introduction
 
-[YoutubeMusic.js](https://saavn.me) is a package to search & get specific information from YouTube Music.
+[YoutubeMusic.js](https://www.npmjs.com/package/youtubemusic.js) is a package to search & get specific information from YouTube Music.
 
 ## Features
 
